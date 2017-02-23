@@ -5,7 +5,7 @@ If a greenhouse were to be built on the roofs of the buildings it could be easil
 Our project is part of an even large project, called e-Yantra, by IIT-Bombay. Engineering Students from all over India came together to create different kinds of robots for the purpose of an automated greenhouse to grow plants. The different themes were Seed Sowing, Fertilizer Deposition, Weed Removal and Fruit Plucking.
 
 The robot we created was an Autonomous Seed Sowing Robot. We had the good fortune of winning the 3rd POSITION for this competition. 
-The video posted here is the [video](https://www.youtube.com/watch?v=5I3N8_3ZETE&feature=youtu.be) we recorded at the time of the competition.
+The video posted [here](https://www.youtube.com/watch?v=5I3N8_3ZETE&feature=youtu.be) is the video we recorded at the time of the competition.
 
 * This robot is capable of autonomously detecting the size of the greenhouse, the length of each aisle and the presence of holes/flower pots and dropping a predefined number of seeds as decided by the farmer.
 

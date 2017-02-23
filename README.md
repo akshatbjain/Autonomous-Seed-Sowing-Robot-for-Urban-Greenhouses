@@ -17,8 +17,10 @@ The video posted [here](https://www.youtube.com/watch?v=5I3N8_3ZETE&feature=yout
 
 We wanted a design that would be very user friendly and time saving for the farmers. After months of brain-cracking and planning, we designed an appropriate collection and deposition unit (especially for large seeds). The farmer need only pour the seeds into the robots seed reservoir and switch on the robot, rather than individually put the seeds into the robot one-by-one which is an unnecessary waste of time. The robot takes over from there.
 
+# Arena Design
 ![Arena Design](https://github.com/akshatbjain/Autonomous-Seed-Sowing-Robot-for-Urban-Greenhouses/blob/master/Robot%20Arena.jpg)
 
+# Sample Configuration Table
 ![Sample Configuration Table](https://github.com/akshatbjain/Autonomous-Seed-Sowing-Robot-for-Urban-Greenhouses/blob/master/Sample%20Configuration%20Table.jpg)
 
 Team members: 
